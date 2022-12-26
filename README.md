@@ -39,6 +39,6 @@ Based on goals, Louise will need to be mindful of her fundraising goal to ensure
 
 This dataset had limitations as it related to Louise's project. There were some extreme data points that caused summary statistics to be skewed. There were a few Kickstarter campaigns that were currently live during the time the data was collected which caused us to filter those results out to get only completed data. We used filters to significantly limit the data to view only relevant results in the theater and play categories, but there are other categories that Louise could preview to learn more about fundraising for entertainment. 
 
-Louise could look into the same data points using the theater/ musical category/ subcategory, or look at the film&video/ shorts categories. I believe these categories are similar enough to Louise's project that some additional launch date or goal information could be examined.
+Louise could look into the same data points using the theater/ musical category/ subcategory, or look at the film&video/ shorts categories. I believe these categories are similar enough to Louise's project that some additional launch date or goal information could be considered.
 
 Louise could also examine campaign end dates and the length of campaigns to see what the optimal length of a campaign is according to the data. 
