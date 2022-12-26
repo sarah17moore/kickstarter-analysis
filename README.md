@@ -1,12 +1,12 @@
 # Kickstarting with Excel - An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends 
+Performing analysis on Kickstarter data to uncover trends using Excel
 
 ---
 ## Overview of Project
 This is a classwork example in which "my friend" Louise is an up-and-coming playwright who will be starting a Kickstarter fundraiser campaign to help fund her play entitled *Fever*. This data analysis will help her track trends in similar past Kickstarter campaigns. 
 
 ### Purpose
-We will analyze data from past Kickstarter campaigns that were started for theater projects to be able to see comparable campaign outcomes based on the campaign's launching date as well as outcomes based on the campaign fundraising goals. 
+Using Excel functions, we will analyze data from past Kickstarter campaigns that were started for theater projects to be able to see comparable campaign outcomes based on the campaign's launching date as well as outcomes based on the campaign fundraising goals. 
 
 A campaign's outcome will be labeled as 'successful', 'failed', or 'canceled'. Campaigns were labeled as successful if the amount of money pledged surpassed the fundraising goal. They were labeled failed if the campaign did not have enough funds pledged to surpass the goal. Canceled campaigns were labeled as such if the campaign was shut down before the end date passed. 
 
